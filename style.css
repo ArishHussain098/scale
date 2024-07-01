@@ -1,0 +1,16 @@
+h1{
+    font-size: 400%;
+}
+
+table ,th ,td {
+    border: 1px solid black;
+}
+table{
+    height: 200px;
+    width: 100px;
+    padding: 50px;
+    /* text-transform: lowercase; */
+}
+td{
+    background-color: aqua;
+}
