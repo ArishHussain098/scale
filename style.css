@@ -2,15 +2,47 @@ h1{
     font-size: 400%;
 }
 
-table ,th ,td {
-    border: 1px solid black;
+body {
+    background-color: silver;
+    color: white;
+    padding: 20px;
+    font-family: Arial, Verdana, sans-serif;}
+   h1 {
+    background-color: #ffffff;
+    background-color: hsla(0,100%,100%,0.5);
+    color: #64645A;
+    padding: inherit;}
+   p {
+    padding: 5px;
+    margin: 0px;
 }
-table{
-    height: 200px;
-    width: 100px;
-    padding: 50px;
-    /* text-transform: lowercase; */
-}
-td{
-    background-color: aqua;
-}
+   p.zero {
+    background-color: #f80814;}
+   p.one {
+    background-color: #fd4007;}
+   p.two {
+    background-color: #fc7c13;}
+   p.three {
+    background-color: #fac20a;}
+   p.four {
+    background-color: #f3ef0a;}
+   p.five {
+    background-color: #d2ff07;}
+   p.six {
+    background-color: #08ff14;}
+   p.seven {
+    background-color: #00bb88;}
+   p.eight {
+    background-color: #50aafd;}
+   p.nine {
+    background-color: #008fe2;}
+   p.ten {
+    background-color: #3a75f3;}
+   p.eleven {
+    background-color: #4346ff;}
+   p.twelve {
+    background-color: rgb(85, 14, 252);}
+   p.thirteen {
+    background-color: rgb(91, 2, 207);}
+   p.fourteen {
+    background-color: rgb(70, 3, 126);
